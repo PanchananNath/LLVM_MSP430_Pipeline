@@ -232,5 +232,3 @@ ELF Executable
 Running on MSP430FR5969
 ```
 
-🎉 **Congratulations — you built a real LLVM‑to‑MCU pipeline.**
-
